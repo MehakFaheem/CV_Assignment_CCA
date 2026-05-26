@@ -69,8 +69,7 @@ Run the project:
 python pose_activity_classifier.py
 ```
 
-Mehak Faheem
-
-BS Artificial Intelligence
-
+## Course: Computer Vision
+Mehak Faheem,
+BS Artificial Intelligence,
 6th Semester
