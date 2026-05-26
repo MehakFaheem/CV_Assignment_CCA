@@ -70,5 +70,7 @@ python pose_activity_classifier.py
 ```
 
 Mehak Faheem
+
 BS Artificial Intelligence
+
 6th Semester
